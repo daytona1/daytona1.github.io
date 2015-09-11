@@ -1,2 +1,3 @@
 # Andy's class site
-Yaya!
+
+http://cc.andydayton.com
