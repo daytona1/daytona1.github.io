@@ -10,6 +10,9 @@ function setup() {
  * Main animation loop
  */
 function draw() {
+	
+	// add a comment
+
 	// set background to black
 	background(0);
 	// 2px lines
